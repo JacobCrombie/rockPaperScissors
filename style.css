@@ -2,16 +2,21 @@ body {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
+  background-color: antiquewhite;
 }
 
 header{
-
+height: 10vh;
 }
 
 main{
   flex-grow: 1;
 }
+.messageimg{
+  height: 600px;
+}
 
 footer{
-  
+  height: 15%;
+
 }
